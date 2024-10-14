@@ -1,0 +1,2 @@
+# wiki
+code knowlegde
