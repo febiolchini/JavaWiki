@@ -1,2 +1,2 @@
 # wiki
-code knowlegde
+code knowledge
